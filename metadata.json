@@ -1,0 +1,6 @@
+{
+  "name": "ScholarPulse — AI PDF & Topic Quiz Studio",
+  "description": "Upload PDF lecture notes or describe any study topic to generate adaptive AI quizzes with Gemini, track mastery progression over time, and analyze performance metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
